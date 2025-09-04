@@ -16,4 +16,10 @@ public class Prog6112Assignement {
     }
 }
     
-    // 
+    
+// Refernce List
+
+
+// Farrell, J.,2023. java Progamming.Boston: Cengage.
+// W3Schools, 2025. Java ArrayList.[Online] Available at https://www.w3schools.com/java/java_polymorphism.asp
+
