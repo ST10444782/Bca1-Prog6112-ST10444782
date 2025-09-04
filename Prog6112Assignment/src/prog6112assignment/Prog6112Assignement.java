@@ -11,8 +11,8 @@ public class Prog6112Assignement {
     
     
     public static void main(String[] args) {
-        Series seriesApp = new Series();
-        seriesApp.displayInitialScreen();
+        Series seriesApp = new Series(); // Object creation, as discussed by Farrell (2023, p. 45)
+        seriesApp.displayInitialScreen(); //Method invocation, a key concept in Java programming (Farrell, 2023, p. 78)
     }
 }
     
@@ -22,4 +22,5 @@ public class Prog6112Assignement {
 
 // Farrell, J.,2023. java Progamming.Boston: Cengage.
 // W3Schools, 2025. Java ArrayList.[Online] Available at https://www.w3schools.com/java/java_polymorphism.asp
+
 
