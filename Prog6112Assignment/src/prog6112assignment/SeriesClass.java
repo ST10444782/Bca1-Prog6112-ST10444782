@@ -66,3 +66,10 @@ public class SeriesClass  {
     
     
 }
+// Refernce List
+
+
+// Farrell, J.,2023. java Progamming.Boston: Cengage.
+// W3Schools, 2025. Java ArrayList.[Online] Available at https://www.w3schools.com/java/java_constructors.asp
+// Grok,2025. Response to Method overloading.[online] available at:https://grok.com/
+
