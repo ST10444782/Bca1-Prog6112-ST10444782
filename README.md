@@ -23,3 +23,8 @@ SectionB
 
 
 
+<img width="325" height="126" alt="image" src="https://github.com/user-attachments/assets/4790241b-4a8e-4104-8e01-b02b413d2a94" />
+
+
+
+
