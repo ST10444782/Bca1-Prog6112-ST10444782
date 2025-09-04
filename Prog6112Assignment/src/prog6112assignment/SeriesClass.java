@@ -17,7 +17,7 @@ public class SeriesClass  {
     public String seriesAge;
     
 
-    public SeriesClass(String id, String name, String age, String episodes) {
+    public SeriesClass(String id, String name, String age, String episodes) { // Constructor implementation, W3Schools (2025)
         this.seriesId = id;
         this.seriesName = name;
         this.seriesAge = age;
@@ -27,7 +27,7 @@ public class SeriesClass  {
     }
     
     // setters
-    public void setSeriesId(String seriesId){
+    public void setSeriesId(String seriesId){ // Setter method for encapsulation, Farrell (2023, p. 65)
         this.seriesId =seriesId;
         
     }
@@ -72,4 +72,5 @@ public class SeriesClass  {
 // Farrell, J.,2023. java Progamming.Boston: Cengage.
 // W3Schools, 2025. Java ArrayList.[Online] Available at https://www.w3schools.com/java/java_constructors.asp
 // Grok,2025. Response to Method overloading.[online] available at:https://grok.com/
+
 
