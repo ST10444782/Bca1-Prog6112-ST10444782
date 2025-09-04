@@ -12,3 +12,9 @@
 
 <img width="523" height="133" alt="image" src="https://github.com/user-attachments/assets/2de45932-af28-45ed-91a0-5b1f86412a07" />
 
+
+SectionB 
+
+<img width="354" height="136" alt="image" src="https://github.com/user-attachments/assets/84a6d46b-390a-4af0-a1a5-64a205941a7c" />
+
+
