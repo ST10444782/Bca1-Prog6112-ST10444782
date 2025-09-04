@@ -45,7 +45,7 @@ public class Series {
             
             switch (choice) {
                 case "1":
-                    captureSeries();
+                    captureSeries();  // Method call, Farrell (2023, p. 78)
                     break;
                 case "2":
                     searchSeries();
@@ -124,7 +124,7 @@ public class Series {
         String id = scanner.nextLine();
         
         boolean found = false;
-        for (SeriesClass series : seriesList) {
+        for (SeriesClass series : seriesList) { // Enhanced for loop, Farrell (2023, p. 92)
             if (series.seriesId.equals(id)) {
                 System.out.println("---");
                 System.out.println("SERIES ID: " + series.seriesId);
@@ -191,7 +191,7 @@ public class Series {
         String id = scanner.nextLine();
         
         SeriesClass foundSeries = null;
-        for (SeriesClass series : seriesList) {
+        for (SeriesClass series : seriesList) { // Adding to ArrayList, W3Schools (2025)
             if (series.seriesId.equals(id)) {
                 foundSeries = series;
                 break;
@@ -207,7 +207,7 @@ public class Series {
         String confirmation = scanner.nextLine();
         
         if (confirmation.equalsIgnoreCase("Y")) {
-            seriesList.remove(foundSeries);
+            seriesList.remove(foundSeries); 
             System.out.println("Series deleted successfully!");
         } else {
             System.out.println("Deletion cancelled.");
@@ -247,4 +247,5 @@ public class Series {
 // Farrell, J.,2023. java Progamming.Boston: Cengage.
 // W3Schools, 2025. Java ArrayList.[Online] Available at https://www.w3schools.com/java/java_polymorphism.asp
     
+
 
